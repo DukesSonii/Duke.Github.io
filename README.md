@@ -37,22 +37,24 @@ Contributing is as easy as starting a new workspace:
 
 Now the website should run locally with no errors, feel free to use this as a template and make changes into it for your own Portfolio.
 
-![Screenshot 2023-05-23 012152](https://github.com/DukesSonii/Portfolio-images/assets/98602899/83b0bbc1-5191-49dd-83b9-a13c8a9fa8ad)
-![Screenshot 2023-05-23 012211](https://github.com/DukesSonii/Portfolio-images/assets/98602899/5fb9d576-9fb1-4a32-930e-a50c3d4c9481)
-![Screenshot 2023-05-23 012228](https://github.com/DukesSonii/Portfolio-images/assets/98602899/042b079e-70bd-46b8-a1ab-c979d355f42f)
-![Screenshot 2023-05-23 012251](https://github.com/DukesSonii/Port
-![Screenshot 2023-05-23 012319](https://github.com/DukesSonii/Portfolio-images/assets/98602899/5a95fc5b-090a-4d44-a645-eadd0760902b)
-f
-![Screenshot 2023-05-23 012304](https://github.com/DukesSonii/Portfolio-images/assets/98602899/599a9d8c-6e8d-41c7-91a9-a9ac9638f328)
-olio-images/assets/98602899/a77a3145-ca65-4a5e-a889-7cd3f74f52a5)
-![Screenshot 2023-05-23 012258](https://github.com/DukesSonii/Portfolio-images/assets/98602899/1da42d0b-1dad-4631-a6c1-3ce091723edc)
+![Screenshot 2023-05-23 012152](https://github.com/DukesSonii/Duke.Github.io/assets/98602899/ea10d31e-1a8d-4086-af01-555ad96e2378)
+![Screenshot 2023-05-23 012211](https://github.com/DukesSonii/Duke.Github.io/assets/98602899/65d301f5-9076-4d40-b2f5-ef7e4dd1
+![Screenshot 2023-05-23 012319](https://github.com/DukesSonii/Duke.Github.io/assets/98602899/5796bae1-6e87-421a-aa5d-d9a18deb2cbf)
+8947)
+![Screenshot 2023-05-23 012304](https://github.com/DukesSonii/Duke.Github.io/assets/98602899/fe55114a-6164-4187-8569-d24fc54f82fa)
 
+![Screens
+![Screenshot 2023-05-23 012258](https://github.com/DukesSonii/Duke.Github.io/assets/98602899/8d232830-72b9-4232-a101-9a4602f6f123)
 
-![Screenshot 2023-05-23 012234](https://github.com/DukesSonii/Portfolio
-![Screenshot 2023-05-23 012244](https://github.com/DukesSonii/Portfolio-images/assets/98602899/e39dc802-7751-4ae7-8d9b-9531c5b35c1f)
--images/assets/98602899/0f60ba70-305d-404b-b59a-4708191e8a01)
-![Screenshot 2023-05-23 012239](https://github.com/DukesSonii/Portfolio-images/assets/98602899/68bc26db-a4e3-4c5c-b83d-c3c17fcd1675)
+![Screenshot 2023-05-23
+![Screenshot 2023-05-23 012251](https://github.com/DukesSonii/Duke.Github.io/assets/98602899/f798d6cc-5c58-4189-af95-8a9071683d86)
+ 012244](https://github.com/DukesSonii/Duke.Github.io/assets/98602899/195779bb-c207-41d8-b636-fe24ffc8afdb)
 
+![Screenshot 2023-05-23 012239](https://github.com/DukesSonii/Duke.Github.io/assets/98602899/a3086c61-def8-44b0-906b-2cf1cf57b687)
+hot 2023-05-23 012221](https://github.com/Dukes
+![Uploading Screenshot 2
+![Screenshot 2023-05-23 012234](https://github.com/DukesSonii/Duke.Github.io/assets/98602899/dccff62d-039e-4a01-b3b6-899dc73e701a)
+023-05-23 012228.png…]()
+Sonii/Duke.Github.io/assets/98602899/806b8c26-0788-40c6-ad72-a2951db79c04)
 
-![Screenshot 2023-05-23 012221](https://github.com/DukesSonii/Portfolio-images/assets/98602899/72989354-787f-4dca-b73e-2d6ef94f0f2f)
 
